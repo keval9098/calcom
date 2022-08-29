@@ -1,0 +1,16 @@
+{
+  "name": "@calcom/emails",
+  "sideEffects": false,
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "@calcom/dayjs": "*",
+    "@calcom/lib": "*",
+    "next-i18next": "^11.3.0",
+    "rrule": "^2.7.1"
+  },
+  "devDependencies": {
+    "@calcom/types": "*"
+  }
+}
